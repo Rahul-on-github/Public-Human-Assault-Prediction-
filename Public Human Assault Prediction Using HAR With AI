@@ -1,0 +1,3 @@
+Developed an innovative Human Activity Recognition (HAR) system driven by AI to proactively predict public human assaults in real-time. The project seeks to identify early indicators of potential threats, empowering timely intervention by authorities for assault prevention. 
+Utilizing the KTH video dataset, the system employs preprocessing techniques to extract relevant frames. Employing Pixel and Optical Flow feature extraction methods, it captures intricate features. Data visualization enhances feature comprehension. Employing the Spatio-Temporal Net deep learning algorithm, the project effectively categorizes human activities. 
+The camera on recognizing abnormal detection from the humans such as fights, etc., an alert notification is sent to the police. 
